@@ -20,6 +20,7 @@
 + 2024/09 基于本项目的小程序被举报封号，我们启动了自建小程序方案，鼓励用户注册小程序自用。
 + 2024/09 学习通官方以内容侵权为由投诉多个公众号的文章。
 + 2024/10 我们计划重启开源版本。
++ 2024/12 截至12月22日的 [数据](http://113.45.185.136:24800/)，已有809个小程序成功上传，另有108个上传失败。有需要的同学可以填写问卷！
 
 ## 🎃 免责声明
 
@@ -110,14 +111,14 @@
 
 |                                                               **首页**                                                               |                                                              **登录页**                                                              |                                                          **批量扫码签到页**                                                          |                                                            **课程列表页**                                                            |
 | :----------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
-| <div align="center"> <img src="https://github.com/misaka-org/Chaoxing-MiniProgram/blob/static/show/非开源版/1.png?raw=true"/> </div> | <div align="center"> <img src="https://github.com/misaka-org/Chaoxing-MiniProgram/blob/static/show/非开源版/2.png?raw=true"/> </div> | <div align="center"> <img src="https://github.com/misaka-org/Chaoxing-MiniProgram/blob/static/show/非开源版/3.png?raw=true"/> </div> | <div align="center"> <img src="https://github.com/misaka-org/Chaoxing-MiniProgram/blob/static/show/非开源版/4.png?raw=true"/> </div> |
+| <div align="center"> <img src="https://github.com/user-attachments/assets/6d354e43-6a51-4e70-8d3c-e8b53d52e625"/> </div> | <div align="center"> <img src="https://github.com/user-attachments/assets/71ef9c44-309b-489e-9ef7-4f08e3840d91"/> </div> | <div align="center"> <img src="https://github.com/user-attachments/assets/d73b4df3-c43f-4a6a-8f38-46e661654652"/> </div> | <div align="center"> <img src="https://github.com/user-attachments/assets/fb7c4141-330c-483e-8c1f-2461e0361bfb"/> </div> |
 
 |                                                            **签到列表页**                                                            |                                                            **手势签到页**                                                            |                                                            **拍照签到页**                                                            |                                                            **定位签到页**                                                            |
 | :----------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
-| <div align="center"> <img src="https://github.com/misaka-org/Chaoxing-MiniProgram/blob/static/show/非开源版/5.png?raw=true"/> </div> | <div align="center"> <img src="https://github.com/misaka-org/Chaoxing-MiniProgram/blob/static/show/非开源版/6.png?raw=true"/> </div> | <div align="center"> <img src="https://github.com/misaka-org/Chaoxing-MiniProgram/blob/static/show/非开源版/7.png?raw=true"/> </div> | <div align="center"> <img src="https://github.com/misaka-org/Chaoxing-MiniProgram/blob/static/show/非开源版/8.png?raw=true"/> </div> |
+| <div align="center"> <img src="https://github.com/user-attachments/assets/b3bbd3b8-d359-4c2a-be7d-aa3bce4c47f9"/> </div> | <div align="center"> <img src="https://github.com/user-attachments/assets/e2539952-d160-48ab-a99b-1e70234f16b6"/> </div> | <div align="center"> <img src="https://github.com/user-attachments/assets/63f9c939-7334-4c0b-8efd-d7a3db6d09cf"/> </div> | <div align="center"> <img src="https://github.com/user-attachments/assets/6807e267-10bd-49c0-9ea7-69b778ab5556"/> </div> |
 
 <div align="center" style="font-weight:bold">扫码体验非开源版</div>  
-<img src="https://github.com/misaka-org/Chaoxing-MiniProgram/blob/static/show/体验二维码.png?raw=true" width="250" height="250" style="border-radius: 50%"></img>
+<img src="https://github.com/user-attachments/assets/c279019d-d2fd-49b0-b1c7-b704e510438b" width="250" height="250" style="border-radius: 50%"></img>
 
 ## 🎗️ 交流学习
 
@@ -126,6 +127,8 @@
 + [QQ频道](https://pd.qq.com/s/f1mli0e35)（推荐）
 + [Discussion](https://github.com/misaka-org/Chaoxing-MiniProgram/discussions)
 
+> 我们依靠非开源版中的广告获得收益，未来可能提供更多增值服务。但已有的免费签到渠道永远不会关闭！
+
 ## 🏆 特别鸣谢
 
-本项目的小程序上传服务器 由 [萝莉猫](https://www.loricat.cn) 公益赞助
+本项目的小程序上传服务器 由 [萝莉猫](https://www.loricat.cn) 公益赞助！
